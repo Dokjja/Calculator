@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+namespace Calculator_App;
 [TestClass]
 public class CalculatorTests
 {
