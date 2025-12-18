@@ -1,0 +1,12 @@
+.vs/
+.idea/
+bin/
+obj/
+packages/
+Properties/
+*.config
+*.resx
+*.sqlite
+*.csproj
+*.DotSettings
+*.user
